@@ -1,5 +1,6 @@
 # [UVA-10375 Choose and divide][https://vjudge.net/problem/UVA-10375]
 
+#### 方法一：唯一分解定理
 
 ```python
 prime = []
@@ -84,5 +85,20 @@ for line in sys.stdin:
 ```python
 import sys
 for line in sys.stdin:
+```
+
+#### 方法二：？？一遍遍历
+
+```python
+import sys
+for line in sys.stdin:
+    p, q, r, s = [int(i) for i in line.split()]
+    ans = 1
+    for i in range(1, max(q, s) + 1):
+        if i <= q:
+            ans = ans * (p - q + i) / i
+        if i <= s:
+            ans = ans / (r - s + i) * i
+    print('{0:.5f}'.format(ans))
 ```
 
