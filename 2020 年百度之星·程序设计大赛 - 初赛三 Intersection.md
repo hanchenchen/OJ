@@ -1,4 +1,4 @@
-# [2020 年百度之星·程序设计大赛 - 初赛三 Intersection](http://acm.hdu.edu.cn/showproblem.php?pid=6786)
+# [BestCoder2020-3-Intersection](http://acm.hdu.edu.cn/showproblem.php?pid=6786)
 
 2020 年百度之星·程序设计大赛 - 初赛三 Intersection
 
