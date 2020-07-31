@@ -157,4 +157,5 @@ int main() {
 
 - $\left(a \% mod \right) / \left(b \% mod\right) \neq \left(a /b \right)\%mod$，所以应该先求逆，在求模
 - 根结点有特殊情况。
+- 不能使用vector`.clear()`来清空数组
 
