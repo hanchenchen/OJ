@@ -2,7 +2,7 @@
 
 2020 年百度之星·程序设计大赛 - 初赛三 Intersection
 
-```python
+```c++
 //#include<bits/stdc++.h>
 #include <iostream>
 #include <vector>
