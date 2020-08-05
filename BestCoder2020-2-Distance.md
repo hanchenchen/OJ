@@ -1,4 +1,4 @@
-# [BestCoder2020-3-Distance](http://acm.hdu.edu.cn/showproblem.php?pid=6776)
+# [BestCoder2020-2-Distance](http://acm.hdu.edu.cn/showproblem.php?pid=6776)
 
 2020 年百度之星·程序设计大赛 - 初赛三 Distance
 

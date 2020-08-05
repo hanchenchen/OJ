@@ -1,4 +1,4 @@
-# [BestCoder2020-3-Poker](http://acm.hdu.edu.cn/showproblem.php?pid=6775)
+# [BestCoder2020-2-Poker](http://acm.hdu.edu.cn/showproblem.php?pid=6775)
 
 2020 年百度之星·程序设计大赛 - 初赛三 Poker
 
