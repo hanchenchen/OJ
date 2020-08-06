@@ -1,4 +1,4 @@
-# [BestCoder2020-2-car](http://acm.hdu.edu.cn/showproblem.php?pid=6778)
+# [BestCoder2020-2-Car](http://acm.hdu.edu.cn/showproblem.php?pid=6778)
 
 ```c++
 //#include<bits/stdc++.h>
